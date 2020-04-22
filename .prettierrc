@@ -1,0 +1,9 @@
+{
+	"arrowParens": "avoid",
+	"semi": false,
+	"singleQuote": true,
+	"trailingComma": "es5",
+	"useTabs": true,
+	"svelteSortOrder": "markup-scripts-styles",
+	"svelteBracketNewLine": true
+}
